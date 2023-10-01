@@ -28,7 +28,7 @@ I have worked with technologies like:
  - Verilog code
 ### Arduino 🦾
  - Arduino and server connection
-## ✥ ## Motion Designer 👨‍🎨
+## ✥ Motion Designer 👨‍🎨
 Skilled in a great variety of design areas, with heavy experience in motion design, I was self-taught in almost everything in design.
 Worked as a freelancer for over half a decade, and used programs like:
 - Adobe Suite
