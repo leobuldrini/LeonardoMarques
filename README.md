@@ -1,6 +1,6 @@
 *Hi, there!* **Olá, pessoa!** *Hola, amigo!* 👋 
 # ▶︎ I'm  Leonardo Marques 😁 
-# ▶︎ About me
+## ▶︎ About me
 Currently majoring Computer Science at PUC-Minas, I'm someone focused on always being able to *outcome the problems*, **to think outside the box**. Solving problems and *hard challenges* have acquired my attention since I was little and, not always having a easy way to overcome them, **I have become autodidact** when it comes to *developing*.
 Programming **since before high-school**, I acquired experience on many different areas of computer science. 
 ## ✥ Full-Stack Developer 👨‍💻
